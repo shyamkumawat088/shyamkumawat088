@@ -12,8 +12,7 @@
     
 Hey!! 👋
 -------
-- ✨ Shyam here, working as a Software Engineer at NewtonSchool.
-- 🌱 I'm presently learning Backend.
+- ✨ Shyam here, working as a SDE-2  at NewtonSchool.
 - 💬  Feel free to ask me about Next.js, React.js.
 - ⚽ I like to play Cricket, Football.
 -------
